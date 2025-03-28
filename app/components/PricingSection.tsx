@@ -1,7 +1,6 @@
 'use client';
 import { useState, useEffect, useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
-import axios from 'axios';
 
 // Define credit pricing tiers
 const creditPricing = {

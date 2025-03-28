@@ -44,7 +44,7 @@ const CallToActionSection = () => {
               </h2>
               
               <p className="text-lg md:text-xl text-gray-300">
-                Join the revolution that's making traditional search engines obsolete. Access information you never knew existed.
+                Join the revolution that&apos;s making traditional search engines obsolete. Access information you never knew existed.
               </p>
             </motion.div>
             
